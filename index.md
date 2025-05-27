@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Jelani Smith
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "A sound soul dwells within a sound mind and a sound body."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
+  - "🎓 Sophmore, Math @ Georgia State University"
+  - "🔬 Research: Taking sports media to the next level using AI and Machine Learning"
   - "📍 Based in Atlanta, GA"
   - "🚀 Passionate about building smart systems for real-world impact"
 
