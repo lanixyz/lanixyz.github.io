@@ -27,7 +27,7 @@ about:
       description: Fashion is a way I have been able to express myself and make myself stand out from others. My journey through fashion has been a way for me to really express my journey through life. Some of my favorite artists are Ken Carson, Lucki, Frank Ocean, Tana, Playboi Carti, and Destroy Lonely.  
 
   gallery:
-    - image: /assets/images/Ricky.png
+    - image: /assets/images/best.jpg
       caption: My favorite fit
     - image: /assets/images/hoops.jpg
       caption: Me hooping in Highschool
