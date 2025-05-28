@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Atlanta, GA"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/jelani-smith-mason-b520472b0/
 image: /assets/images/headshot.jpg
 ---
