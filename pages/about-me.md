@@ -33,6 +33,6 @@ about:
       caption: Me hooping in Highschool
     - image: /assets/images/Pink3.jpg
       caption: Some more fits
-    - image: /assets/images/me-pi.png
+    - image: /assets/images/recentFit.JPG
       caption: Some more fits
 ---
