@@ -4,27 +4,27 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Jelani Smith
+  role: Sophmore, Math Major at Georgia State University
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a Sophmore studying Math and Computer Science at Georgia State University in Atlanta, Georgia. I expect to graduate in 2028.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    I plan to continue studying Computer Science and Artificial Intellegence to one day be able to create programs/programming for robots for companies like The NBA, Google, Meta, etc.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy playing and watching basketball, fashion and music, and watching Anime, Marvel, and Star Wars content in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🏀
+      title: Playing Basketball
+      description: I’ve been playing basketball since I was 4 years old. I have played basketball from middle school to even getting a scholarship to play in college. 
+    - icon: ⛩️
+      title: Anime, Marvel, and Star Wars
+      description: My favorite anime are Bleach, Hunter X Hunter, and Soul Eater. My favorite super hero is Spiderman and I absolutely love Star Wars.
+    - icon: 🛍️
+      title: Fashion and Music
+      description: Fashion is a way I have been able to express myself and make myself stand out from others. My journey through fashion has been a way for me to really express my journey through life. Some of my favorite artists are Ken Carson, Lucki, Frank Ocean, Tana, Playboi Carti, and Destroy Lonely.  
 
   gallery:
     - image: /assets/images/me-guitar.png
