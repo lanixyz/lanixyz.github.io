@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Jelani Smith
   role: Sophmore, Math Major at Georgia State University
-  image: /assets/images/PP.png
+  image: /assets/images/cheese.JPG
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
     I’m currently a Sophmore studying Math and Computer Science at Georgia State University in Atlanta, Georgia. I expect to graduate in 2028.
@@ -31,7 +31,7 @@ about:
       caption: My favorite fit
     - image: /assets/images/hoops.jpg
       caption: Me hooping in Highschool
-    - image: /assets/images/Pink3.jpg
+    - image: /assets/images/Pink3.JPG
       caption: Some more fits
     - image: /assets/images/recentFit.JPG
       caption: Some more fits
