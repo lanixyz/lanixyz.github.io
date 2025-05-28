@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Jelani Smith
   role: Sophmore, Math Major at Georgia State University
-  image: /assets/images/me.jpg
+  image: /assets/images/PP.png
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
     I’m currently a Sophmore studying Math and Computer Science at Georgia State University in Atlanta, Georgia. I expect to graduate in 2028.
@@ -27,12 +27,12 @@ about:
       description: Fashion is a way I have been able to express myself and make myself stand out from others. My journey through fashion has been a way for me to really express my journey through life. Some of my favorite artists are Ken Carson, Lucki, Frank Ocean, Tana, Playboi Carti, and Destroy Lonely.  
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/Ricky.png
+      caption: My favorite fit
     - image: /assets/images/hoops.jpg
       caption: Me hooping in Highschool
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
+    - image: /assets/images/Pink3.jpg
+      caption: Some more fits
     - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+      caption: Some more fits
 ---
