@@ -7,6 +7,7 @@ subtitle: Global Journalism & Communication
 project_title: "FIFA Club World Cup 2025: Developing Post-game content using AI for automated soccer box scores and video news reports"
 
 problem: |
+  
   The project addresses the increasing demand for quick, accurate sports highlights while offering
 students valuable hands-on experience in rapidly growing fields. By working with live match data,
 creating automated box scores, and generating one-minute video news segments, students will gain
