@@ -14,25 +14,21 @@ practical skills in machine learning, natural language processing, and audio syn
 will equip them with the expertise needed to excel in the evolving landscape where sports media and
 artificial intelligence intersect.
 
-    This project aims to create an automated system for the FIFA Club World Cup 2025 and
-FIFA World Cup 2026 that delivers near real-time post-game content. Leveraging machine learning,
-deep learning models, and advanced transformers libraries, the system will generate concise game
-summaries and transform them into engaging audio/video news segments with natural-sounding voice
-narration.
+    This project aims to create an automated system for the FIFA Club World Cup 2025 and  FIFA World Cup 2026 that delivers near real-time post-game content. Leveraging machine learning, deep learning models, and advanced transformers libraries, the system will generate concise game summaries and transform them into engaging audio/video news segments with natural-sounding voice narration.
 
 approach: |
     - We will create a working system that ingests live match data and
 produces concise textual overviews (e.g., box scores, game highlights).
-- We will also create a model that seamlessly converts the generated summaries into
-clear, natural-sounding audio clips.
-- We will develop a data handling framework (e.g., notebooks, scripts)
-illustrating how match statistics are collected, processed, and fed into the AI pipelines.
-- We will analyze pass soccer matches summary from sport news outlet to create
-authentic game summaries for the model
-- We will make a final presentation or report summarizing the technical
-details, challenges, and lessons learned, highlighting how the system meets real-world
-needs in sports media.
-- A literature review of past work done on soccer news with ai/ml models
+
+    - We will also create a model that seamlessly converts the generated summaries into clear, natural-sounding audio clips.
+
+    - We will develop a data handling framework (e.g., notebooks, scripts) illustrating how match statistics are collected, processed, and fed into the AI pipelines.
+
+    - We will analyze pass soccer matches summary from sport news outlet to create authentic game summaries for the model
+
+    - We will make a final presentation or report summarizing the technical details, challenges, and lessons learned, highlighting how the system meets real-world needs in sports media.
+
+    - A literature review of past work done on soccer news with ai/ml models
 
 outcome: |
     The end result will be a cutting-edge platform providing timely, digestible soccer coverage to
