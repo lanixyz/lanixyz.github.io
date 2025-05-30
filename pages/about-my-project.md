@@ -25,8 +25,7 @@ approach: |
     - A literature review of past work done on soccer news with ai/ml models
 
 outcome: |
-    -The end result will be a cutting-edge platform providing timely, digestible soccer coverage to
-fans and media outlets.
+    -The end result will be a cutting-edge platform providing timely, digestible soccer coverage to fans and media outlets.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
