@@ -7,17 +7,17 @@ subtitle: Global Journalism & Communication
 project_title: "FIFA Club World Cup 2025: Developing Post-game content using AI for automated soccer box scores and video news reports"
 
 problem: |
-    The project addresses the increasing demand for quick, accurate sports highlights while offering
+        The project addresses the increasing demand for quick, accurate sports highlights while offering
 students valuable hands-on experience in rapidly growing fields. By working with live match data,
 creating automated box scores, and generating one-minute video news segments, students will gain
 practical skills in machine learning, natural language processing, and audio synthesis. This experience
 will equip them with the expertise needed to excel in the evolving landscape where sports media and
 artificial intelligence intersect.
 
-    This project aims to create an automated system for the FIFA Club World Cup 2025 and  FIFA World Cup 2026 that delivers near real-time post-game content. Leveraging machine learning, deep learning models, and advanced transformers libraries, the system will generate concise game summaries and transform them into engaging audio/video news segments with natural-sounding voice narration.
+        This project aims to create an automated system for the FIFA Club World Cup 2025 and  FIFA World Cup 2026 that delivers near real-time post-game content. Leveraging machine learning, deep learning models, and advanced transformers libraries, the system will generate concise game summaries and transform them into engaging audio/video news segments with natural-sounding voice narration.
 
 approach: |
-    - We will create a working system that ingests live match data and
+        - We will create a working system that ingests live match data and
 produces concise textual overviews (e.g., box scores, game highlights).
 
     - We will also create a model that seamlessly converts the generated summaries into clear, natural-sounding audio clips.
@@ -31,7 +31,7 @@ produces concise textual overviews (e.g., box scores, game highlights).
     - A literature review of past work done on soccer news with ai/ml models
 
 outcome: |
-    The end result will be a cutting-edge platform providing timely, digestible soccer coverage to
+        The end result will be a cutting-edge platform providing timely, digestible soccer coverage to
 fans and media outlets.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
