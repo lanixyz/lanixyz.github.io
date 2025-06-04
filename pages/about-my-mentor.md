@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/danielPic.jpeg
   website: https://www.linkedin.com/in/owolabi-daniel-olusayo/
   bio: |
-    Daniel Owolabi is a Master of Science in Advanced Computing. He is a certified data analyst through Google and does freelance graphic design.
+    Daniel Owolabi is currently getting a Master of Science in Advanced Computing through Morgan State University. He is a certified data analyst through Google and IBM and does freelance graphic design. He also has a post grad diploma in infomation tech with specialization in data science. He is from Nigeria and completed his undergraduate degree there.
     
     
 
