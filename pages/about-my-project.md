@@ -25,7 +25,9 @@ approach: |
     - A literature review of past work done on soccer news with ai/ml models
 
 outcome: |
-    -The end result will be a cutting-edge platform providing timely, digestible soccer coverage to fans and media outlets.
+    - The end result will be a cutting-edge platform providing timely, digestible soccer coverage to fans and media outlets.
+    - One aspect of the end result will be a text summary of the soccer match generated fully from the AI model using the box score of the match.
+    - The other aspect is that the AI model will be able to perform text to speech on the summary so the model will be able to read out the summary it made completely on it's own.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
